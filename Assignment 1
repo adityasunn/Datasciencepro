@@ -1,0 +1,8 @@
+# enter the value of length
+l = int(input('enter length '))
+#enter the value of breath
+b = int(input('enter breath '))
+# area of rectangle
+area = l*b
+print(area)
+'the total area is' Print(area)
